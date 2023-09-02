@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    text-align: center ;
+    font-family: 'merriweather ',serif;
+    font-size: 200%;
+    background-color: #eaf6f6;
+}
+
+h1{
+    color: #66bfbf;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'sacramento',cursive;
+}
+h2{ color: #65b8b8;
+font-size: 2.5rem;
+font-family: cursive;
+}
+
+h3{
+    color:#285253;
+font-size: 2 rem;
+font-family: sans-serif;
+}
+
+.topcontainer{
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 100px  ;
+
+}
+.profile.p{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    font-style: italic;
+}
+.mypic{
+    width: 20%;
+    margin: 50px auto -7px auto;
+    border-radius: 180px;
+    
+
+}
+.skill-row{ 
+    width: 50% ;
+    margin: 50px auto 50px auto;
+    text-align: left;
+
+}
+.skills.profile{
+    position: relative;
+}
+.cloudskill{
+    width: 20%;
+    border-radius: 20%;
+    float: left;
+    margin-right: 50px;
+}
+.problemskill{
+    width: 15%;
+    border-radius: 50px;
+    float: right;
+    margin-left: 50px;
+    
+}
+ 
+.top-cloud{
+    position:absolute;
+    top: 50px;
+    right: 470px;
+    
+}
+.bottomcloud{
+ 
+    position:absolute;
+    left:474px;
+    bottom:313px;    
+}
+.contact-me{
+    
+    font-size: 20px;
+    font-family: cursive;
+}
+.footer-link{
+    padding-right:30px;
+}
+.btn{
+    background-color: #a1b3b3;
+    border-radius: 10px;
+    
+    color: #eaf6f6;
+    font-family: "brush Script MT",cursive;
+    font-size: 30px;
+    text-decoration: none;  
+}
+.bottom-container{ background-color: #66bfbf;
+   padding: 50px 0 20px;
+}
+a{ 
+    color: aliceblue;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size: 20px;
+    font-family: cursive;
+}
+.btn:hover{
+    background:rgb(255, 122, 122) ;   
+    background-image: -webkit-linear-gradient(rgb(231, 39, 80));
+}
+hr{
+        border-style: none;
+        border-top-style: dashed;
+        border-color: rgb(217, 21, 21);
+        border-width: 2px;
+        width: 30pxpx;
+}
+   
