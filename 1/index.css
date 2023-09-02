@@ -1,0 +1,25 @@
+body{
+    background-color: #EAF6F6;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dashed;
+    border-color: rgb(217, 21, 21);
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{color: #131414;
+
+}
+
+h3{
+    color: #66BFBF;
+}
+
+h2{
+    text-align: left;
+    font-size: 40px;
+    color: #e28181;
+}
